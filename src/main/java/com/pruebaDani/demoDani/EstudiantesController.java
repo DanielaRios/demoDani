@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 
+/*PRIMEROS PASOS*/
 
 @RestController //especifica que la clase es un controlador
 @RequestMapping
